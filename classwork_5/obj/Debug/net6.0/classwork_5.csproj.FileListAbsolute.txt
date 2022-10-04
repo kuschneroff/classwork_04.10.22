@@ -1,0 +1,15 @@
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\bin\Debug\net6.0\classwork_5.exe
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\bin\Debug\net6.0\classwork_5.deps.json
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\bin\Debug\net6.0\classwork_5.runtimeconfig.json
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\bin\Debug\net6.0\classwork_5.dll
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\bin\Debug\net6.0\classwork_5.pdb
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\classwork_5.csproj.AssemblyReference.cache
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\classwork_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\classwork_5.AssemblyInfoInputs.cache
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\classwork_5.AssemblyInfo.cs
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\classwork_5.csproj.CoreCompileInputs.cache
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\classwork_5.dll
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\refint\classwork_5.dll
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\classwork_5.pdb
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\classwork_5.genruntimeconfig.cache
+F:\GeekBrains\2022\2_Seminar\3_Znakomstvo s yazykami programmirovaniya\Seminar 2\classwork_5\obj\Debug\net6.0\ref\classwork_5.dll
